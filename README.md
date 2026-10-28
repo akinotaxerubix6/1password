@@ -223,4 +223,4 @@ Yes, 1Password is also available for mobile devices, ensuring you can access you
 Take control of your online security today! Download 1Password now and enjoy the peace of mind that comes with knowing your passwords are safe and organized.
 
 ---
-**Last updated:** 2026-10-28 10:58:19 UTC
+**Last updated:** 2026-10-28 17:05:09 UTC
